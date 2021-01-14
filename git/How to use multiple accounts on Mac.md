@@ -71,6 +71,18 @@ Host github-new
    1. `git remote rm origin`
    2. `git remote add origin git@github-new:new-gh-acc/my-new-repo.git`
 
+#### Step 5 - Update local git config file with the new identity
+
+1. This step is to make sure that we do not mess up the new git user name and email with the already set global name and email on our mac. In our local directory, open the config file: `git config --local -e`
+
+2. Add the new info:
+
+```
+[user]
+    name = new-gh-acc-name
+    email = your_new_email@example.com
+```
+
 That's it!
 Hope it's helpful!
 
@@ -78,3 +90,4 @@ Hope it's helpful!
 
 - [Generating new ssh key and adding it to ssh-agent](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Videos demo for this same problem](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
+- [Handling Multiple Github Accounts on MacOS](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9)
