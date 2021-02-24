@@ -91,3 +91,4 @@ Hope it's helpful!
 - [Generating new ssh key and adding it to ssh-agent](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Videos demo for this same problem](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
 - [Handling Multiple Github Accounts on MacOS](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9)
+- [Gitlab Multiple Accounts](https://medium.com/uncaught-exception/setting-up-multiple-gitlab-accounts-82b70e88c437)
