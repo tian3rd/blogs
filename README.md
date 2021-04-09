@@ -4,6 +4,16 @@
 
 ## How it goes
 
+### 09-04-2021[website/tool]
+
+Create a form to gather info using [Typeform](https://typeform.com) as an alternative for Google Form.
+
+Key advantages:
+
+- Succinct design of the website
+- Fluent transition between webpages
+- Various templates to choose
+
 ### 08-04-2021[poem]
 
 **Funeral Blues** <br> by _W.H. Auden_ <br>
