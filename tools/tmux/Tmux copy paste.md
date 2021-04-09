@@ -28,6 +28,12 @@ The first thing to configure your tmux is to set up the `.tmux.conf` file in you
   - Then we can use mouse to select highlighted text, then hold the `shift` to copy
   - Then use `ctrl + a` and `]` to paste.
 
+### How to copy the text into the system clipboard?
+
+It's definitely a pain in the ass... The alternative way on Mac OS is to `brew install xclip` and then hold `fn` when selecting the text, then use the `cmd + C` as usual. But the thing is that in this way, it will copy across multiple panes which is not what we desire. However, it's an option if you layout the panes vertically.
+
+I'll keep looking for a better solution to tweak this weird problem.
+
 #### Ref
 
 1. [Everything you need to know about Tmux copy paste](http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting-ubuntu/)
