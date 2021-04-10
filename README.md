@@ -4,6 +4,20 @@
 
 ## How it goes
 
+### 10-04-2021[appliance]
+
+[Kmart 11 Fin Oil Heater](https://www.kmart.com.au/product/11-fin-oil-heater/2903324)
+
+An oil heater is a connvection heater filled with oil (used as a heat buffer because of high boiling point and hight specific heat capacity). It's fin-shaped to maximize the surface area of the radiator.
+
+Ratings: ⭑⭑⭑⭐︎
+Works like a charm in a small room! A must-have to spend your autumn/winter in Canberra!
+
+_Downside_
+
+- Power source is as high as **2400W** for a 11-fin oil heater (power is proportional to fin numbers)
+- Efficiency is relatively low
+
 ### 09-04-2021[website/tool]
 
 Create a form to gather info using [Typeform](https://typeform.com) as an alternative for Google Form.
