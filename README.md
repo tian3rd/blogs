@@ -4,6 +4,16 @@
 
 ## How it goes
 
+### 12-04-2021[app]
+
+[Tomato2](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?mt=12)
+
+Rating: ⭑⭑⭑⭑
+
+This pomodoro timer is simple yet elegant for tracking the time and reminding. I am currently using the _Sync to hour_ mode instead of the _25+5_ default setting, partly because 25 minutes seems a bit too short and while I get distracted a lot.
+
+By the way, I find this app on this awesome repo: [Awesome Mac Apps](https://github.com/jaywcjlove/awesome-mac).
+
 ### 11-04-2021[music]
 
 [卧虎藏龙原声带 Crouching Tiger, Hidden Dragon - Orignal Motion Picture Soundtrack](https://music.apple.com/us/album/crouching-tiger-hidden-dragon-original-motion-picture/1035012026)
