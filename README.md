@@ -4,6 +4,18 @@
 
 ## How it goes
 
+### 13-04-2021[movie]
+
+[Jackie Brown](https://www.imdb.com/title/tt0119396/)
+
+Rating: ⭑⭑⭑⭐︎
+(Does this IMDb plugin work?)
+<span class="imdbRatingPlugin" data-user="ur44659132" data-title="tt0119396" data-style="p3"><a href="https://www.imdb.com/title/tt0119396/?ref_=plg_rt_1"><img src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_37x18.png" alt=" Jackie Brown
+(1997) on IMDb" />
+</a></span><script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
+
+Frankly said, got some kind of immune to the non-linearity of Quentin's tricks. Still, everyone knows his/her trade, with round of applause to Samuel Jackson, damn!
+
 ### 12-04-2021[app]
 
 [Tomato2](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?mt=12)
