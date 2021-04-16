@@ -4,6 +4,17 @@
 
 ## How it goes
 
+### 17-04-2021[website]
+
+**Learning English**
+
+- [Test your vocabulary]()
+- [Vocabulary]()
+
+Some facts about a foreigner's mastery of vocabulary:
+
+- In general,
+
 ### 16-04-2021[paper]
 
 [The Economic Organisation of a POW camp](https://www.jstor.org/stable/pdf/2550133.pdf?casa_token=GRoB1njEzoEAAAAA:_3YN9ww6MYAhNoXHiw9IwXOD57xhm6db2CR9flgr0NUP2LaX7WRL0xxJDS7MwS8ewrvTOMFpGGVGl1rJnzJ2rmgMtXU4kMYWIdJ_nGSChSasr9IlMbtg) is a paper regarding how economics works in a camp during the WWII. It tells a fascinating story illustrating the trades and market rules, with prisoners as buyer, sellor, middlemen and organiser, etc.
