@@ -4,6 +4,12 @@
 
 ## How it goes
 
+### 15-04-2021[website]
+
+As a programmer, I often get lost when new techs are emerging so rapidly in the industry. Therefore, how to enjoy coding while also grow as a developer is an imminent problem facing me right now. Chen Hao is a Chinese programmer who knows his trade with years of experience mudding in the industry, who I can call as a tide player. His blog covers not only tech skills, but also provide insightful ideas about a programmer's career. Beware that it's a Chinese website.
+
+[CoolShell](https://coolshell.cn)
+
 ### 14-04-2021[null]
 
 ### 13-04-2021[movie]
