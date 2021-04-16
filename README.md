@@ -4,6 +4,19 @@
 
 ## How it goes
 
+### 16-04-2021[paper]
+
+[The Economic Organisation of a POW camp](https://www.jstor.org/stable/pdf/2550133.pdf?casa_token=GRoB1njEzoEAAAAA:_3YN9ww6MYAhNoXHiw9IwXOD57xhm6db2CR9flgr0NUP2LaX7WRL0xxJDS7MwS8ewrvTOMFpGGVGl1rJnzJ2rmgMtXU4kMYWIdJ_nGSChSasr9IlMbtg) is a paper regarding how economics works in a camp during the WWII. It tells a fascinating story illustrating the trades and market rules, with prisoners as buyer, sellor, middlemen and organiser, etc.
+Some amusing facts:
+
+- Cigarettes are treated as currency;
+- Flututations of prices (inflations and deflations) by supply and demand periodically, or sometimes war events;
+- Middlemen are generally hated but everyone has to deal with them;
+- Embryo labour market to perform services such as laundries;
+- Paper currency for bully marks;
+- Shop as a bank of issue;
+- ...
+
 ### 15-04-2021[website]
 
 As a programmer, I often get lost when new techs are emerging so rapidly in the industry. Therefore, how to enjoy coding while also grow as a developer is an imminent problem facing me right now. Chen Hao is a Chinese programmer who knows his trade with years of experience mudding in the industry, who I can call as a tide player. His blog covers not only tech skills, but also provide insightful ideas about a programmer's career. Beware that it's a Chinese website.
