@@ -10,6 +10,7 @@
 [![Kobe Bryant's Muse](https://cdn-std.droplr.net/files/acc_498334/QrARZ4)](https://www.youtube.com/watch?v=QeyfejIU4j4)
 Rating: ⭑⭑⭑⭑⭑
 "There is power in understanding the journey of others to help create your own."
+PS: [Kobe Tributes on Knuckleheads](https://www.theplayerstribune.com/videos/knuckleheads-kobe-bryant-tribute)
 
 ### 17-04-2021[website]
 
