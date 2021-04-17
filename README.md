@@ -4,16 +4,26 @@
 
 ## How it goes
 
+### 18-04-2021[documentary]
+
+[Kobe Bryant's Muse](https://www.imdb.com/title/tt4353376/?ref_=fn_al_tt_1)
+[![Kobe Bryant's Muse](https://cdn-std.droplr.net/files/acc_498334/QrARZ4)](https://www.youtube.com/watch?v=QeyfejIU4j4)
+Rating: ⭑⭑⭑⭑⭑
+"There is power in understanding the journey of others to help create your own."
+
 ### 17-04-2021[website]
 
 **Learning English**
 
-- [Test your vocabulary]()
-- [Vocabulary]()
+- [Test your vocabulary](http://testyourvocab.com)
+  - My test result is here: http://testyourvocab.com/result?user=16139310
+- [Vocabulary](https://www.vocabulary.com)
+  - This is a practice and word lookup site. I've just used for a while.
 
-Some facts about a foreigner's mastery of vocabulary:
+Some facts about a foreigner's mastery of vocabulary vs native speakers:
 
-- In general,
+- In general, most native English adult speakers who have taken the test fall in the range 22000-35000 words. [[Details](http://testyourvocab.com/blog/2013-05-08-Native-speakers-in-greater-detail#newMainchartNative)]
+- For foreign learners of English, most common vocabulary size is from 2500-9000 words. [[Details](http://testyourvocab.com/blog/2011-07-25-New-results-for-foreign-learners#mainchartNonnative)]
 
 ### 16-04-2021[paper]
 
