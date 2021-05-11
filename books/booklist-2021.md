@@ -32,3 +32,4 @@
    1. Computer Systems: A Programmer's Perspective
 6. 动手学深度学习
    1. Dive into Deep Learning
+7. Educated
