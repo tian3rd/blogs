@@ -12,11 +12,7 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    1. Price: ~$40
    2. Gotta find out some more succinct designs.
 2. Music album:
-<<<<<<< HEAD
-   1. [X&Y](https://music.apple.com/us/album/x-y/1123076757?app=itunes&ign-mpt=uo%3D2)
-=======
    1. [X&Y](https://music.apple.com/us/album/x-y/1123076757)
->>>>>>> add to shopping list
 3. Movies:
    1. [Spare Parts](https://itunes.apple.com/us/movie/spare-parts/id955041500?ign-mpt=uo%3D2)
 4. eBooks:
