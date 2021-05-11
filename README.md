@@ -4,6 +4,14 @@
 
 ## How it goes
 
+### 11-05-2021[audio]
+
+[看理想-看见另一种可能](https://www.vistopia.com.cn/index): A Chinese podcast-like app covering topics within and beyond your imagination.
+
+最近路上一直在听道长的八分节目。时事，读书，番外对谈，道长都一一道来。人生都另一种可能，可能已被他人演绎，也可能在我的一念之间。
+
+推荐：★★★★★
+
 ### 10-05-2021[ebook]
 
 English version: [The Linus Command Line](http://linuxcommand.org)
