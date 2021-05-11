@@ -4,6 +4,13 @@
 
 ## How it goes
 
+### 10-05-2021[ebook]
+
+English version: [The Linus Command Line](http://linuxcommand.org)
+Chinese version: [快乐的命令行](https://billie66.github.io/TLCL/)
+
+It really takes time (hopefully 10 years) to be good at programming. Can't rush it. Put the hard work, and practice coding whenever you can.
+
 ### 09-05-2021[course]
 
 [missing semester](https://missing.csail.mit.edu)
