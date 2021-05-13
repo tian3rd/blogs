@@ -4,6 +4,14 @@
 
 ## How it goes
 
+### 14-05-2021[website]
+
+[Learn Git](https://learngitbranching.js.org/)
+
+It uses the cmd instrunctions with `git` and visulize the processes. Fantastic tool to learn `git`!
+
+Rating: ★★★
+
 ### 13-05-2021[app]
 
 [Maccy](https://github.com/p0deje/Maccy)
