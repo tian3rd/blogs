@@ -4,6 +4,21 @@
 
 ## How it goes
 
+### 13-05-2021[app]
+
+[Maccy](https://github.com/p0deje/Maccy)
+
+An open-source clipboard tool for easy copy/paste on Mac. (Another option is to use Alfred.app built-in tool to do the same basic clipborad management, but it is in the power pack which costs around $40; I used to use the old version of another app Paste, but it's asked users to subscribe to the services even if you've already bought it long before the subscription mode.)
+
+Features:
+
+- Lightweight and fast
+- Keyboard-first Secure and private
+- Native UI
+- Open source and free
+
+Rating: ★★★☆
+
 ### 12-05-2021[tool]
 
 [Apple Pencil](https://www.apple.com/us/search/apple-pencil)
