@@ -4,6 +4,14 @@
 
 ## How it goes
 
+### 12-05-2021[tool]
+
+[Apple Pencil](https://www.apple.com/us/search/apple-pencil)
+
+The most natural way to write on an iPad. Can't live without it.
+
+Rating: ★★★★★
+
 ### 11-05-2021[audio]
 
 [看理想-看见另一种可能](https://www.vistopia.com.cn/index): A Chinese podcast-like app covering topics within and beyond your imagination.
