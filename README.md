@@ -4,11 +4,23 @@
 
 ## How it goes
 
+### 16-05-2021[]
+
+### 15-05-2021[music]
+
+[2 set violin](https://www.youtube.com/watch?v=a315S3_JtZ8)
+
+This channel brings some light entertainment in the music world from two funny guys who actually are great violin players. When I'm feeling tired, I'd sometime switch to this channel to enjoy the critics of music perfomances from these two. The above link is one that I like the most. It's really enlightning to test the limit of human performances.
+
+Rating: ★★★
+
 ### 14-05-2021[website]
 
 [Learn Git](https://learngitbranching.js.org/)
 
 It uses the cmd instrunctions with `git` and visulize the processes. Fantastic tool to learn `git`!
+
+More resources on https://try.github.io
 
 Rating: ★★★
 
