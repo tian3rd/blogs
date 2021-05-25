@@ -15,7 +15,15 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    1. [X&Y](https://music.apple.com/us/album/x-y/1123076757)
 3. Movies:
    1. [Spare Parts](https://itunes.apple.com/us/movie/spare-parts/id955041500?ign-mpt=uo%3D2)
-4. eBooks:
+   2. [Ridley Scott 4-Movie Collection](https://itunes.apple.com/us/movie-collection/ridley-scott-4-movie-collection/id1496413311?ign-mpt=uo%3D4)
+   3. [Hilary and Jackie](https://itunes.apple.com/us/movie/hilary-and-jackie/id437292270)
+4. eBooks & eMagazines:
+   1. [端](https://theinitium.com) One month subscription
+   2. [硬件产品设计与开发](https://www.ituring.com.cn/book/1597)
+   3. [React 全家桶](https://www.ituring.com.cn/book/2673)
+   4. [Java 性能优化实践](https://www.ituring.com.cn/book/2085)
+   5. [贝叶斯的博弈](https://www.ituring.com.cn/book/2691)
+   6. [bash shell 脚本编程经典实例](https://www.ituring.com.cn/book/2587)
 5. Tutorials:
 
 ### June, 2021
@@ -24,6 +32,12 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    1. [Lenka](https://music.apple.com/us/album/lenka-expanded-edition/1460863383)
 
 ## When affordable
+
+1. Time affordable
+
+   1. Rasberry Pi
+
+2. Finance affordable
 
 ### Miscellaneous
 
