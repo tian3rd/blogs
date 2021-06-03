@@ -17,6 +17,7 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    1. [Spare Parts](https://itunes.apple.com/us/movie/spare-parts/id955041500?ign-mpt=uo%3D2)
    2. [Ridley Scott 4-Movie Collection](https://itunes.apple.com/us/movie-collection/ridley-scott-4-movie-collection/id1496413311?ign-mpt=uo%3D4)
    3. [Hilary and Jackie](https://itunes.apple.com/us/movie/hilary-and-jackie/id437292270)
+   4. [The Road](https://tv.apple.com/us/movie/the-road/umc.cmc.61hv56z41mrkshnxjmsxffqt9)
 4. eBooks & eMagazines:
    1. [端](https://theinitium.com) One month subscription
    2. [硬件产品设计与开发](https://www.ituring.com.cn/book/1597)
@@ -25,11 +26,21 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    5. [贝叶斯的博弈](https://www.ituring.com.cn/book/2691)
    6. [bash shell 脚本编程经典实例](https://www.ituring.com.cn/book/2587)
 5. Tutorials:
+6. Services:
+   1. [Tabnine Code Completion One Year](https://www.tabnine.com)
 
 ### June, 2021
 
 1. Music album:
    1. [Lenka](https://music.apple.com/us/album/lenka-expanded-edition/1460863383)
+2. Movies:
+3. eBooks & eMagazine:
+   1. [独角兽项目](https://www.ituring.com.cn/book/2881)
+   2. [Rust 程序设计](https://www.ituring.com.cn/book/2101)
+   3. [SQL 经典实例](https://www.ituring.com.cn/book/1691)
+   4. [深入理解计算机系统](https://book.douban.com/subject/26912767/) 纸书
+4. Services:
+5. Tutorials:
 
 ## When affordable
 
