@@ -4,6 +4,13 @@
 
 ## How it goes
 
+### 13-06-2021[tutorials]
+
+[Bilibili Linux & other resources by thuvisioner](https://space.bilibili.com/504069720/video)
+Learn to program, by any means necessary.
+
+Recommendations: ★★★★☆
+
 ### 16-05-2021[movie]
 
 [Ridley Scott](https://en.wikipedia.org/wiki/Ridley_Scott)'s movies cover a variety of topics ranging from historic adpatations, science fiction to military events and current affairs. I watched a documentary about [Alien](https://www.imdb.com/title/tt0078748/)'s [behind-the-scene clips](https://www.imdb.com/title/tt8974964/?) earlier this year, when the director was in his early career. He is such a pioneer and solid director. I just bought a bargin colletions of four moview on iTunes:
