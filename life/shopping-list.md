@@ -28,19 +28,43 @@ E-fund is $50 every month in the form of iTunes Gift Card.
 5. Tutorials:
 6. Services:
    1. [Tabnine Code Completion One Year](https://www.tabnine.com)
+   2. Amazon Prime Membership
 
 ### June, 2021
 
 1. Music album:
    1. [Lenka](https://music.apple.com/us/album/lenka-expanded-edition/1460863383)
 2. Movies:
+   1. Love In the Buff
+   2. Up
+   3. Coco (2017)
+   4. Fantastic Mr. Fox
+   5. Soul (2020)
+   6. About Time
+   7. 12 Monkeys
+   8. Back to School
+   9. Good Morning, Vietnam
 3. eBooks & eMagazine:
    1. [独角兽项目](https://www.ituring.com.cn/book/2881)
    2. [Rust 程序设计](https://www.ituring.com.cn/book/2101)
    3. [SQL 经典实例](https://www.ituring.com.cn/book/1691)
    4. [深入理解计算机系统](https://book.douban.com/subject/26912767/) 纸书
+   5. 618 Crazy (More than 20 books) on iTuring.com.cn
 4. Services:
+   1. Car service @Yan Capital Motors + new wipers
+   2. Amazon Prime Membership
 5. Tutorials:
+6. Hardwares:
+   1. USB sticks:
+      1. HP 32GB USB3.1
+      2. Samsung 64GB USB3.1 x2
+   2. Solid-State Drives:
+      1. WestDigital: My Passport SSD 500GB
+      2. Samsung: Portable SSD T7
+   3. 2nd-Hand Lenovo PC
+7. Clothes:
+   1. UA Swacket
+   2. Sweaters x4 @Kmart
 
 ## When affordable
 
