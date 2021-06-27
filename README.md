@@ -4,6 +4,11 @@
 
 ## How it goes
 
+### 27-06-2021[website]
+
+[TeachYourselfCS](https://teachyourselfcs.com)
+It's time to face the reality that time is fair, and everything else is not.
+
 ### 13-06-2021[tutorials]
 
 [Bilibili Linux & other resources by thuvisioner](https://space.bilibili.com/504069720/video)
