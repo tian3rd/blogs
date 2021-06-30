@@ -54,17 +54,21 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    1. Car service @Yan Capital Motors + new wipers
    2. Amazon Prime Membership
 5. Tutorials:
+   1. Apple One (1 month trial, including Fitness)
 6. Hardwares:
    1. USB sticks:
       1. HP 32GB USB3.1
       2. Samsung 64GB USB3.1 x2
    2. Solid-State Drives:
       1. WestDigital: My Passport SSD 500GB
-      2. Samsung: Portable SSD T7
+      2. Samsung: Portable SSD T7 (@officeworks has plenty of stock, but @kogan has more bargins)
    3. 2nd-Hand Lenovo PC
 7. Clothes:
    1. UA Swacket
    2. Sweaters x4 @Kmart
+   3. Duffle bag
+   4. Yoga mattress
+   5. Workout kit (synergy with indoor exercise)
 
 ## When affordable
 
@@ -73,6 +77,7 @@ E-fund is $50 every month in the form of iTunes Gift Card.
    1. Rasberry Pi
 
 2. Finance affordable
+   1. Honda bike CBR1000
 
 ### Miscellaneous
 
@@ -83,4 +88,4 @@ E-fund is $50 every month in the form of iTunes Gift Card.
 
 1. Apple TV
 2. MacBook Pro
-3.
+3. iMac with M1/M2/M3/M4 chip
