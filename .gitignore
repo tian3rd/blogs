@@ -2,3 +2,9 @@
 
 # exclude data generated from executable file, e.g. kaggle dataset
 data/
+
+**/data
+
+test.*
+
+test[0-9].*
