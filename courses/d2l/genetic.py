@@ -54,7 +54,7 @@ class GeneticSelector():
         population = []
         for i in range(self.size):
             chromosome = np.ones(self.n_features, dtype=np.bool)
-            mask = np.random.rand(len(chromosome)) < 0.3
+            mask = np.random.rand(len(chromosome)) < 0.2
             chromosome[mask] = False
             population.append(chromosome)
         return population
@@ -147,3 +147,4 @@ sel.fit(X, y)
 sel.plot_scores()
 score = -1.0 * cross_val_score(est, X[:,sel.support_], y, cv=5, scoring="neg_mean_squared_error")
 print("CV MSE after feature selection: {:.2f}".format(np.mean(score)))
+print(sel.initilize())
