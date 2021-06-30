@@ -4,9 +4,16 @@
 
 ## How it goes
 
+### 30-06-2021[hardware]
+
+[Samsung SSD](https://www.kogan.com/au/buy/samsung-t7-portable-ssd-drive-500gb-grey-samsung/)
+
+That's a lightweight monster to free up my MBP. Also installed kali and MX Linux on separate partitions in this SSD. In a place with poor internet connection, nothing beats the local perfomances and stability of an SSD.
+
 ### 27-06-2021[website]
 
 [TeachYourselfCS](https://teachyourselfcs.com)
+
 It's time to face the reality that time is fair, and everything else is not.
 
 ### 13-06-2021[tutorials]
