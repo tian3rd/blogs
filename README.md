@@ -4,19 +4,24 @@
 
 ## How it goes
 
-<<<<<<< HEAD
+### 19-07-2021[poetry]
+
+[The Poetry of Du Fu](https://book.douban.com/subject/26707300/)
+Free download: https://www.degruyter.com/document/doi/10.1515/9781501501890/html
+
+BBC had an episode of [Du Fu, China's greatest poet](https://www.youtube.com/watch?v=CcN2X40Fbko). I, for one, has gradually forgotten what's learnt and memorized during high schools, mostly because the lack of empathy for those poems in worrying about the unfairness of the society and the miseries of the people. However, during the years, I always feel an urge to connect to the history of my country. So, this is an opportunity for me to rediscover the culture that's shaped the history of China.
+
 ### 30-06-2021[hardware]
 
 [Samsung SSD](https://www.kogan.com/au/buy/samsung-t7-portable-ssd-drive-500gb-grey-samsung/)
 
 That's a lightweight monster to free up my MBP. Also installed kali and MX Linux on separate partitions in this SSD. In a place with poor internet connection, nothing beats the local perfomances and stability of an SSD.
-=======
+
 ### 28-06-2021[video]
 
 [Ethical hacking by Tom Webb](https://www.youtube.com/watch?v=Tp25LmdYlds)
 "Any sufficiently advanced technology is indistinguishable from magic. --Arthur C. Clarke"
 In my point of view, hacking is a neutral word where it can be used to exploit intelligence, or used as a tool to exploit others. In some way, it's like the new break-in of last centuries. One way or another, one may get hacked if he is exposed in the society. As a defensive strategy, he must know hacking and better get hands on the real hacking, then he can protect what's important in the virtually connected world. Along the journey, it's much fun and risky.
->>>>>>> ea1c2e0 (add mon rec)
 
 ### 27-06-2021[website]
 
